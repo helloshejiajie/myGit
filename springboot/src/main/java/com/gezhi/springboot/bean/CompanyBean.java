@@ -28,7 +28,7 @@ public class CompanyBean implements Serializable {
 	 */
 	private String lawPerson;
 	
-	
+	private String compId;
 	
 	public CompanyBean() {
 		super();
